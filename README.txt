@@ -1,0 +1,1 @@
+2nd Year Physics OOP computing project- An Optical Ray Tracer=== Modules ===raytracer.pyraybundle.py=== Scripts ===single_spherical_refracting_surface.pyplano-convex_singlet_lens.pyRMS.pysmall_tests.py=== Description ===First, run the module files; I imported the relevant modules into each script. To see the plot, just run each script.
